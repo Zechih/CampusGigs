@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476912508841",
+    "project_id": "campusgigs-947d1",
+    "storage_bucket": "campusgigs-947d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476912508841:android:f0eb5a4b2b27dcea31aeb8",
+        "android_client_info": {
+          "package_name": "com.example.campusgigs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv73zhXu7RmL_JkqVqzM8At9QYuD7DeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
